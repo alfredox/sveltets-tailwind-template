@@ -1,6 +1,6 @@
-# Svelte + TS + Vite
+# Svelte + TS + Vite + TailwindCSS
 
-This template should help get you started developing with Svelte and TypeScript in Vite.
+This template should help get you started developing with Svelte, TypeScript and TailwindCSS in Vite.
 
 ## Recommended IDE Setup
 
