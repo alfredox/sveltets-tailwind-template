@@ -1,10 +1,7 @@
 <script lang="ts">
   import logo from './assets/svelte.png'
   import Counter from './lib/Counter.svelte'
-  import TailwindCSS from './TailwindCSS.svelte';
 </script>
-
-<TailwindCSS />
 
 <main class="text-center p-4 my-0 mx-auto">
   <img src={logo} alt="Svelte Logo" class="inline-block w-64 h-64"/>
